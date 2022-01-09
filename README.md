@@ -1,2 +1,3 @@
 # jsdeliver_random_imgs
 jsdeliver_random_imgs
+这个仓库是一个图片仓库，用于jsdeliverCDN
